@@ -4,3 +4,7 @@
 *.txt
 
 *.tsv
+
+joinedTrainANDtestdataset
+
+\.DS_Store
