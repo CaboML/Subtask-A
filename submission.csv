@@ -62,10 +62,10 @@
 13482,"There are heaps and HEAPS of really good developers outside of US who really want to contribute to making Windows Phone a preferred choice,, so please Microsoft; make it simplier and make it DIGITAL!",0
 13484,"It would be really helpful if,, for example,, a developer makes an app that takes advantage of the schedule alarm API,, and would like to enable the user to select a custom ringtone for that alarm.",0
 13491,"This API proposal would enable the user to select from many ringtones already available on the phone,, and save developers the trouble of having to implement their own custom ringtones.",0
-13501,"If you try to copy-paste multiple recipient number to the To: box in the messaging,, the 2nd until the last number will be duplicated.",1
+13501,"If you try to copy-paste multiple recipient number to the To: box in the messaging,, the 2nd until the last number will be duplicated.",0
 13533,"Even as a developer we can create most of the apps for individual users that is standalone.",0
 13534,"If we need to target corporates then then we would need more APIs for device management,, also like Zune (for a single user),, we would need an Enterprise Server Application which can control the devices (of employees) remotely where we can apply corporate policies on the device as well.",0
-13535,"Make some usefull app that run ussd code....",0
+13535,"Make some usefull app that run ussd code....",1
 13536,"Please allow the access to Gmail's Todo list sync when a google account is added on the windows phone.",0
 13537,"Under calendar I see the todo list of hotmail and I like it,, it would be great if I can add the gmail's ones too and have the ability to make changes when sync happens or just have the ability to add todo items and those get sync to the phone.",0
 13538,"Hi,, the biggest icon size requited is 200x200 bit in the Marketplace single App page this is resized to 240x240 losing quality.",0
@@ -87,7 +87,7 @@
 13691,"on newer hardware,, they switch to the newer profile.",0
 13692,"Barring that,, at least allow for merged listings for WP7 and WP8 versions so that customers have a clear upgrade path for the same application.",0
 13701,"Or,, you could just support the native SDK/Direct X on WP7.",0
-13711,"I'll take that over the previous two.",1
+13711,"I'll take that over the previous two.",0
 13721,"Barring that,, at least allow for merged listings for WP7 and WP8 versions so that customers have a clear upgrade path for_�_ more",0
 13731,"The concept explains itself well in below blogpost: WinRT Transitions _�_ Creating Fast and Fluid Metro UIs http://www.scottlogic.co.uk/blog/colin/2011/10/winrt-transitions-creating-fast-and-fluid-metro-uis/",0
 13741,"Using Vodafone GSM and the used data includes Unicode characters thus whole message is failed.",0
@@ -109,7 +109,7 @@
 13814,"That involves a lot of time,, which is a large risk to smaller development companies.",0
 13821,"If Microsoft created some incentives,, like a free device (Blackberry did this) and a free year of membership (Amazon did this) it could drive a lot of developers to the platform which is crucial to the platform taking off.",0
 13822,"I would jump at the opportunity to adapt my apps for Windows Phone if Microsoft created incentives for me to try the platfrom.",0
-13831,"Cant use keyboard in landscape mode in some app",1
+13831,"Cant use keyboard in landscape mode in some app",0
 13832,"You would finally be able to add and customize your alert and text sounds!",0
 13835,"Of course each app would have permission accepted by user and each app would have own isolated storage for more private.",0
 13836,"It would be nice to see Windows Phone move to optional vector based icons instead of static bitmaps.",0
@@ -119,12 +119,12 @@
 138310,"I know this is a pain on developers that are not designers or have designers,, but an option would be nice time saver for the future.",0
 13862,"It would be nice to be able to delete a cert you have uploaded.",0
 13911,"I'd like to be able to decorate my home screen by pinning my favorite photos,, directly from within the pictures application.",0
-13951,"Allow users to organize tiles into separate hubs.",1
+13951,"Allow users to organize tiles into separate hubs.",0
 13953,"A secondary start hub I can use to store occasionally used apps would be good.",0
 13954,"An automated hub for recently used apps would also be good.",0
 13981,"Please allow the access to phone filesystem.",0
 13991,"It would be a great benefit if the developers can manipulate the sdcard resources etc etc.",0
-14041,"HP have the ePrint functionality,, Apple the Airprint.",1
+14041,"HP have the ePrint functionality,, Apple the Airprint.",0
 14042,"Can you not make connection to these devices possible?",0
 14044,"I want to give a textbox a placeholder text.",0
 14045,"This now requires creating a custom control.",0
@@ -201,12 +201,12 @@
 14438,"If you convert video to FLV flash video,, which features much smaller size than_�_ more",0
 14439,"Allow the BackgroundAudioPlayer to play tracks from the MediaLibrary.",0
 144310,"Or allow applications that implement the XNA MediaPlayer class to run in the background.",0
-14442,"Please add the possibility to add your own spell check service,, or provide the data if a system wide one existed.",0
+14442,"Please add the possibility to add your own spell check service,, or provide the data if a system wide one existed.",1
 14443,"When I want to build some tiles in my app,, I have to use buttons that I give a custom style.",0
 14451,"But this is ugly since everyone implements this in another way,, resulting in odd alignments,, bad text colours,, etc.",0
 14461,"We need a simple and standardized way to create simple tiles that function as buttons.",0
 14462,"Beta testers test our apps for free.",0
-14463,"It would be nice if when the app/game is published in the marketplace we could include a list of the testers that helped us so they can get the app from free instead of having to buy it.",1
+14463,"It would be nice if when the app/game is published in the marketplace we could include a list of the testers that helped us so they can get the app from free instead of having to buy it.",0
 14481,"Android,,iOs and Blackberry are compatible with this API So why don't we",0
 14491,"I would be a really nice gesture to have an option wich can put everything to the other side,, so when left handed people scroll,, they could also see the content.",0
 14492,"Visual Studio 11 and new Expression Blend.",0
@@ -225,7 +225,7 @@
 14591,"Why can't I change phone search and IE search to Google or another provider that actually work?",0
 14606,"Fix Bing or fix the phone.",0
 14642,"At best this is unclear,, but should the user pan or zoom they lose the frame of reference for the place we're trying ot show them.",0
-14643,"You can sometimes work around this behaviour by specifying a search for the place you're trying to indicate but this is dependent upon the search results.",1
+14643,"You can sometimes work around this behaviour by specifying a search for the place you're trying to indicate but this is dependent upon the search results.",0
 14651,"If the search finds nothing you get no pin.",0
 14652,"Or if the search finds something other than what you intended you can end up with a pin (or pins) far from where you want them.",0
 14663,"If it were possible to tell the task to show a pin (or pins) at a specific point (or points) that that would allow for a better user experience.",0
@@ -341,9 +341,9 @@
 15587,"Allow the BackgorundAudioAgent to utilise the XNA framework so that the device's song library can be played and manipulated from the background.",0
 15588,"You would also need to provide a conversion mechanism to convert a Song to an AudioTrack - as is the default file type for the BAP.",0
 15589,"Relax the restrictions around application running under a locked screen and/or in the background.",0
-155813,"Unless of course we go with a predetermined SongCollection such as SongCollection limitedPlaylist =_�_ more",1
+155813,"Unless of course we go with a predetermined SongCollection such as SongCollection limitedPlaylist =_�_ more",0
 155815,"We need the ability to build apps that are capable of video editing for WP!",0
-15591,"Please DevGroup make this APIs should enable developers to build apps that include the ability to do video trimming,, editing,, and saving to the video library.",1
+15591,"Please DevGroup make this APIs should enable developers to build apps that include the ability to do video trimming,, editing,, and saving to the video library.",0
 15592,"This is needed to build VoIP application.",0
 15601,"Playing audio stream in loudspeaker is uncomfortable for users.",0
 15602,"sir,, i have samsung omnia w. its running latest update.",0
@@ -529,7 +529,7 @@
 16301,"We cant see the other:(",0
 16311,"it is slightly fustrating when one or two screenshots take longer to load and you cannot skip them while swiping through the images.",0
 16321,"Like windows mobile 6.5 and older version.",0
-16322,"Currently,, you can only have the review page from the app list with the contextual menu.",1
+16322,"Currently,, you can only have the review page from the app list with the contextual menu.",0
 16331,"It will be pleasant to go the main page of the app in the marketplace to see the general pr��sentation,, screenshots & the other users reviews",0
 16332,"add capability to enter manual parametets for visual voicemail",0
 16333,"currently in the all applications view tge jumplist appears only when there are more than 40 apps.",0
@@ -546,7 +546,7 @@
 16349,"I see many developers can be benefited from text2speech api.",0
 163410,"It can also bring in whole range of new apps for windows phone.",0
 163411,"In Android For C2DM ,, Google is providing free account and restrict number of messages per day.",0
-163412,"Supporting Windows Authentication could be very usefull for example writing app that interacts with Microsoft Dynamics CRM",1
+163412,"Supporting Windows Authentication could be very usefull for example writing app that interacts with Microsoft Dynamics CRM",0
 163413,"currently only a defined set of extensions are supported for files to upload to SkyDrive using the new live API which limit really the usage of the API.",0
 163414,"For example my app can export .CSV files and I had to rename their extensions to .TXT to be able to upload them to SkyDrive using the live API.",0
 163415,"The language should be a search critreria for apps and games.",0
